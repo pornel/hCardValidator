@@ -10,22 +10,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "n"
-msgstr "Name"
+msgstr "Jméno"
 
 msgid "name"
-msgstr "Card name"
+msgstr "Název karty kontaktu"
 
 msgid "fn"
-msgstr "Formatted name"
+msgstr "Jméno/a a příjmení"
 
 msgid "email"
-msgstr "e-mail"
+msgstr "E-mail"
 
 msgid "url"
 msgstr "URL"
 
 msgid "nickname"
-msgstr "Nickname"
+msgstr "Přezdívka"
 
 msgid "agent"
 msgstr "Agent"
@@ -34,100 +34,100 @@ msgid "geo"
 msgstr "GEO"
 
 msgid "honorific-prefix"
-msgstr "Honorific Prefix"
+msgstr "Titul před jménem"
 
 msgid "honorific-suffix"
-msgstr "Honorific Suffix"
+msgstr "Titul za jménem"
 
 msgid "given-name"
-msgstr "Given Name"
+msgstr "Křestní jméno"
 
 msgid "additional-name"
-msgstr "Additional Name"
+msgstr "Druhé jméno"
 
 msgid "title"
-msgstr "Title"
+msgstr "Titul"
 
 msgid "family-name"
-msgstr "Family Name"
+msgstr "Příjmení"
 
 msgid "adr"
-msgstr "Address"
+msgstr "Adresa"
 
 msgid "street-address"
-msgstr "Street"
+msgstr "Ulice"
 
 msgid "region"
-msgstr "State or Province"
+msgstr "Stát nebo provincie"
 
 msgid "locality"
-msgstr "City"
+msgstr "Město"
 
 msgid "postal-code"
-msgstr "Postcode"
+msgstr "PSČ"
 
 msgid "country-name"
-msgstr "Country"
+msgstr "Zěmě"
 
 msgid "org"
-msgstr "Organization"
+msgstr "Organizace"
 
 msgid "organization-name"
-msgstr "Org. Name"
+msgstr "Název organizace"
 
 msgid "organization-unit"
-msgstr "Org. Unit"
+msgstr "Složka organizace"
 
 msgid "tel"
-msgstr "Telephone"
+msgstr "Telefon"
 
 msgid "fax"
 msgstr "Fax"
 
 msgid "source"
-msgstr "Card source"
+msgstr "Zdroj karty kontaktu"
 
 msgid "photo"
-msgstr "Photo URL"
+msgstr "URL fotografie"
 
 msgid "bday"
-msgstr "Birthday"
+msgstr "Narozeniny"
 
 msgid "extended-address"
-msgstr "Extended Address"
+msgstr "Rozšířená adresa"
 
 msgid "class"
-msgstr "Classification"
+msgstr "Klasifikace"
 
 msgid "note"
-msgstr "Note"
+msgstr "Poznámka"
 
 msgid "tz"
-msgstr "Timezone"
+msgstr "Časová zóna"
 
 msgid "sort-string"
-msgstr "Sort String"
+msgstr "Řetězec řazení"
 
 msgid "uid"
 msgstr "UID"
 
 msgid "category"
-msgstr "Category"
+msgstr "Kategorie"
 
 msgid "rev"
-msgstr "Card Revision"
+msgstr "Revize karty kontaktu"
 
 msgid "role"
-msgstr "Role"
+msgstr "Pozice"
 
 msgid "label"
 msgstr "Address Label"
 
 msgid "logo"
-msgstr "Logo URL"
+msgstr "URL logotypu"
 
 msgid "sound"
-msgstr "Sound URL"
+msgstr "URL zvukové stopy"
 
 msgid "mailer"
-msgstr "e-mail Client"
+msgstr "E-mailový klient"
